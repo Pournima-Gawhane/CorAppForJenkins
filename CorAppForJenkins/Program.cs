@@ -7,7 +7,7 @@
     }
     static void Main(string[] args)
     {
-        Program p = new Program()
+        Program p = new Program();
         p.Add();
     }
 }
